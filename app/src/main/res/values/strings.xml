@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WindowInfo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_window">WindowActivity</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_adjust">AdjustActivity</string>
+    <string name="title_activity_dia_log_style">DiaLogStyleActivity</string>
+    <string name="title_activity_home1">Home1Activity</string>
+    <string name="title_activity_home_test1">HomeTest1Activity</string>
+</resources>
